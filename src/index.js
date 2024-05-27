@@ -3,9 +3,13 @@ import ReactDOM from "react-dom";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { createSession, validateSession } from "./sessionManager";
+import { BrowserRouter, Route, Link } from "react-router-dom";
 
 (function() {
     const storage = window.localStorage;
+
+    var pjson = require('../package.json');
+    const basename = pjson.basename ?? '/';
 
     Promise.resolve()
         .then(validateSession)
@@ -17,7 +21,9 @@ import { createSession, validateSession } from "./sessionManager";
     function renderWebpage() {
         ReactDOM.render(
             <React.StrictMode>
-                <App />
+		<BrowserRouter basename={basename} forceRefresh={true} >
+                    <App />
+                </BrowserRouter>
             </React.StrictMode>,
             document.getElementById('root')
         );
