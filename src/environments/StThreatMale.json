@@ -23,10 +23,7 @@
             "text": "Responda as questões abaixo para ganhar pontos, trofeus e atingir uma melhor posição no ranking!"
         }
     },
-
-    "preTest": "",
-    "postTest": "",
-
+    
     "theme": {
         "primary": "purple",
         "secondary": "purple"
