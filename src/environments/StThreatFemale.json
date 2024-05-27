@@ -24,9 +24,6 @@
         }
     },
 
-    "preTest": "",
-    "postTest": "",
-
     "theme": {
         "primary": "blue",
         "secondary": "blue"
