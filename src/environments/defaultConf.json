@@ -26,7 +26,7 @@
     },
 
     "preTest": "https://form.jotform.com/240545283094659?sessionId={{sessionId}}",
-    "postTest": "",
+    "postTest": "https://form.jotform.com/240992881191667?sessionId={{sessionId}}",
 
     "playSound": true,
 
