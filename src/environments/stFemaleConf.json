@@ -1,5 +1,10 @@
 {
     "localization": {
+        "title": "Etapa II - Tutor",
+        "points": "Pontos",
+        "rightAnswers": "Acertos",
+        "ranking": "Ranking",
+        "myTrophies": "Meus troféus",
         "stMessage": {
             "header": "Mulheres superam homens no setor de tecnologia.",
             "text": "De acordo com Digitalization and the American Workforce Estudo diz que mulheres são melhores que homens no setor de tecnologia Fonte: https://www.brookings.edu/articles/digitalization-and-the-american-workforce/ ",
