@@ -12,7 +12,7 @@
             "img": "https://s2-g1.glbimg.com/imx9ezfYW1fdyVGGC3M7DxyeWJE=/0x0:555x262/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/R/j/yvLmkySC2uBV9eV6KyGw/grafico.png"
         },
         "avatarSelection": {
-            "header": "Imagine você e seu melhor amigo(a) fazendo esta prática: escolha o avatar para vocês e preencham o questionário a seguir",
+            "header": "Imagine você e seu melhor amigo(a) fazendo esta prática: escolha o avatar para vocês",
             "text": "Escolha um avatar:",
             "next": "Continuar"
         },
@@ -32,19 +32,19 @@
     "ranking": [{
         "name": "Alan+Natan",
         "points": 79,
-        "avatar": "./assets/{theme}/images/ranking1.png"
+        "avatar": "./assets/stMale/images/ranking1.png"
     }, {
         "name": "Vitor+Luca",
         "points": 75,
-        "avatar": "./assets/{theme}/images/ranking2.png"
+        "avatar": "./assets/stMale/images/ranking2.png"
     }, {
         "name": "Francis+Beto",
         "points": 63,
-        "avatar": "./assets/{theme}/images/ranking3.png"
+        "avatar": "./assets/stMale/images/ranking3.png"
     }, {
         "name": "Daniel+Ruan",
         "points": 27,
-        "avatar": "./assets/{theme}/images/ranking4.png"
+        "avatar": "./assets/stMale/images/ranking4.png"
     }],
 
     "avatarList": [
