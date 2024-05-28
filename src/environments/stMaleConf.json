@@ -30,19 +30,19 @@
     },
 
     "ranking": [{
-        "name": "Alan+Natan",
+        "name": "Alan e Natan",
         "points": 79,
         "avatar": "./assets/stMale/images/ranking1.png"
     }, {
-        "name": "Vitor+Luca",
+        "name": "Vitor e Luca",
         "points": 75,
         "avatar": "./assets/stMale/images/ranking2.png"
     }, {
-        "name": "Francis+Beto",
+        "name": "Francis e Beto",
         "points": 63,
         "avatar": "./assets/stMale/images/ranking3.png"
     }, {
-        "name": "Daniel+Ruan",
+        "name": "Daniel e Ruan",
         "points": 27,
         "avatar": "./assets/stMale/images/ranking4.png"
     }],
