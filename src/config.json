@@ -3,8 +3,6 @@
     "environments": {
         "default": "defaultConf.json",
         "stMale": "stMaleConf.json",
-        "stFemale": "stFemaleConf.json",
-        "StThreatMale.json": "StThreatMale.json",
-        "StThreatFemale": "StThreatFemale.json"
+        "stFemale": "stFemaleConf.json"
     }       
 }
