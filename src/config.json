@@ -2,9 +2,7 @@
     "participantAllocation": "random",
     "environments": {
         "default": "defaultConf.json",
-        
-        "stMale": "stMaleConf.json",
-        
-        "stFemale": "stFemaleConf.json"
+        "stFemale": "stFemaleConf.json",
+        "stMale": "stMaleConf.json"
     }       
 }
